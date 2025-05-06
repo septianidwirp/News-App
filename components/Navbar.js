@@ -125,8 +125,8 @@ export default function Navbar() {
           <button className="ml-0 lg:ml-auto shrink-0 block xl:hidden p-2 search-button">
             <img
               className="w-6 h-6"
-              src="https://bonitasprei.id/assets/images/search.svg"
-              alt="Search"
+              src="hhttps://bonitasprei.id/assets/images/search.svg"
+              alt="Search Icon"
             />
           </button>
         </div>

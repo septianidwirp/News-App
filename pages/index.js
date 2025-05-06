@@ -5,23 +5,23 @@ export default function Home() {
   const articles = [
     {
       id: "1",
-      title: "Berapa Macam Ukuran Bed Cover?",
+      title: "Sprei Rumbai Bonita: Ubah Kamar Tidurmu Jadi Lebih Mewah ala Hotel Bintang Lima",
       imageUrl:
-        "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
-      content: `Agar tak salah beli, kamu dapat menyimak 6 macam ukuran bed cover dan karakteristiknya di bawah ini.`,
+        "https://bonitasprei.id/assets/img/820fc-product-banner.png",
+      content: `Pernahkah kamu membayangkan bisa tidur di kamar yang tampilannya elegan seperti hotel berbintang, tapi tetap nyaman dan hangat seperti rumah sendiri? `,
     },
     {
       id: "2",
-      title: "Apa Sih Fungsi Bed Cover?",
+      title: "Berapa Macam Ukuran Bed Cover?",
       imageUrl:
-        "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
-      content: `Biar kamu tak salah, kali ini Bonita akan mengajak kamu untuk mengenali apa saja fungsi bed cover melalui ulasan berikut ini.`,
+        "https://bonitasprei.id/assets/img/upload/3_2_bed_cover_Bonita.png",
+      content: `Saat akan membeli bed cover banyak pembeli melakukan kesalahan dalam menentukan ukuran. Sebab, dimensi bed cover dengan selimut dan kasur sendiri cukup berbeda, meskipun memiliki sebutan/nama ukuran yang sama. `,
     },
     {
       id: "3",
-      title: "Perlengkapan Bed Cover Bagus Ala Hotel",
+      title: "Perlengkapan Bed Cover Bagus",
       imageUrl:
-        "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
+        "https://bonitasprei.id/assets/img/article/12707-3.apa-sih-fungsi-bed-cover.png",
       content: `Kamu bisa langsung menyimak apa saja perlengkapan bed cover dan tempat tidur yang nyaman ala hotel.`,
     },
   ]; //

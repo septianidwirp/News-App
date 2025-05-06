@@ -7,74 +7,77 @@ const articles = [
     id: "1",
     title:
       "Sprei Rumbai Bonita: Ubah Kamar Tidurmu Jadi Lebih Mewah ala Hotel Bintang Lima",
-    imageUrl: "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
+    imageUrl: "https://bonitasprei.id/assets/img/820fc-product-banner.png",
     content: `Pernahkah kamu membayangkan bisa tidur di kamar yang tampilannya elegan seperti hotel berbintang, tapi tetap nyaman dan hangat seperti rumah sendiri? Ternyata, kamu nggak perlu renovasi besar-besaran atau beli perabot mahal untuk mewujudkannya. Cukup mulai dari mengganti sprei tempat tidurmu, dan salah satu pilihan terbaik saat ini adalah sprei rumbai Bonita. Yuk, kita kupas kenapa sprei ini bisa jadi kunci tampilan kamar yang lebih mewah!\n
 **Apa Sih Sprei Rumbai Bonita Itu?**\n
 Sprei rumbai adalah jenis sprei yang dilengkapi dengan aksen rumbai di bagian sampingnya. Aksen ini memberi kesan klasik dan mewah, mirip seperti tempat tidur di hotel premium. Nah, merek Bonita terkenal karena menghadirkan sprei rumbai dengan tampilan yang menarik tapi tetap mengutamakan kenyamanan. Nggak cuma cantik dilihat, sprei ini juga punya kualitas bahan yang bisa diandalkan.\n
 **Kenapa Banyak Orang Suka Sprei Rumbai Bonita?**\n
-• **Tampilan Mewah dan Anggun**  \nRumbai-rumbai di bagian tepinya bikin tempat tidur terlihat lebih eksklusif. Rasanya kayak lagi menginap di hotel mahal setiap malam!\n
-• **Nyaman Saat Digunakan**  \nSprei ini dibuat dari bahan lembut yang adem di kulit. Cocok banget buat kamu yang punya kulit sensitif atau gampang gerah.\n
-• **Tahan Lama dan Nggak Mudah Luntur**  \nKalau dirawat dengan benar, sprei ini bisa bertahan lama tanpa warnanya pudar atau bahannya rusak.\n
+\nSprei rumbai Bonita menjadi incaran banyak orang karena menawarkan berbagai keunggulan, terutama bagi mereka yang menginginkan tampilan kamar yang rapi, nyaman, dan estetik. Dengan rumbai-rumbai di bagian tepinya, sprei ini memberikan kesan mewah dan anggun, seolah-olah sedang menginap di hotel berbintang setiap malam. Selain tampilannya yang elegan, sprei ini juga nyaman digunakan karena terbuat dari bahan lembut yang adem di kulit, sehingga sangat cocok untuk kamu yang memiliki kulit sensitif atau mudah merasa gerah. Tak hanya itu, kualitas bahannya yang tahan lama dan tidak mudah luntur membuat sprei ini menjadi pilihan yang ekonomis dalam jangka panjang, asalkan dirawat dengan benar.\n
 **Soal Harga, Apakah Sprei Bonita Mahal?**\n
 Memang, dibandingkan sprei biasa, harganya sedikit lebih tinggi. Tapi dengan kisaran **RP.100.000-an**, kamu sudah bisa punya sprei rumbai Bonita yang bisa mengubah suasana kamar jadi lebih elegan. Harga tersebut tergantung dari ukuran dan motif yang kamu pilih. Worth it banget, apalagi kalau kamu ingin suasana baru tanpa keluar banyak biaya untuk dekorasi lainnya.\n
 **Gaya Kamar Ala Hotel Bintang 5, Siapa Takut?**\n
 Ciri khas kamar hotel bintang lima biasanya ada pada desain yang bersih, warna-warna netral, pencahayaan hangat, dan tekstil berkualitas tinggi. Sprei rumbai Bonita pas banget untuk menunjang konsep ini. Kamu bisa menambahkan beberapa bantal dekoratif, lampu meja yang cantik, atau tirai dengan warna senada. Nggak perlu banyak barang, yang penting serasi dan tertata rapi.\n
 **Sprei Rumbai vs Sprei Fitted: Pilih yang Mana?**\n
-• **Sprei Rumbai**  \nPunya aksen rumbai di pinggirnya, cocok buat kamu yang suka tampilan kamar yang klasik dan mewah.\n
-• **Sprei Fitted**  \nPunya karet di ujung-ujungnya, jadi lebih praktis dan minimalis. Cocok untuk kamu yang suka hal-hal simpel.\n
-Kalau kamu ingin kamar yang tampil beda dan lebih berkelas, jelas sprei rumbai lebih cocok untukmu.\n
+Sprei rumbai dan sprei fitted memiliki karakteristik yang berbeda, sehingga pilihan tergantung pada gaya dan kebutuhan kamu. Sprei rumbai dilengkapi dengan aksen rumbai di bagian pinggirnya, memberikan sentuhan klasik dan mewah yang cocok untuk kamu yang ingin tampilan kamar lebih elegan dan berkelas. Sementara itu, sprei fitted memiliki karet di ujung-ujungnya, membuatnya lebih praktis dan mudah dipasang, serta memberikan kesan simpel dan minimalis sehingga pas banget untuk kamu yang menyukai kepraktisan. Jadi, kalau kamu ingin kamar yang tampil beda dan terlihat lebih mewah, sprei rumbai bisa jadi pilihan yang tepat.
 **Apa Saja Kelebihan Sprei Bonita?**\n
-• **Desain Bervariasi dan Elegan**  \nBonita punya banyak motif, dari floral yang lembut hingga warna polos yang elegan. Kamu tinggal pilih sesuai selera.\n
-• **Bahan Lembut dan Adem**  \nTerbuat dari katun berkualitas yang nggak bikin gerah, tidur pun jadi lebih nyenyak.\n
-• **Perawatan Gampang**  \nMeskipun ada rumbainya, sprei ini mudah dicuci dan nggak rewel dalam perawatan.\n
+• Desain Bervariasi dan Elegan  \nBonita punya banyak motif, dari floral yang lembut hingga warna polos yang elegan. Kamu tinggal pilih sesuai selera.\n
+• Bahan Lembut dan Adem  \nTerbuat dari katun berkualitas yang nggak bikin gerah, tidur pun jadi lebih nyenyak.\n
+• Perawatan Gampang  \nMeskipun ada rumbainya, sprei ini mudah dicuci dan nggak rewel dalam perawatan.\n
 **Tips Menyulap Kamar Jadi Lebih Mewah**\n
 • Mulai dari sprei berkualitas dengan ganti sprei lamamu dengan sprei rumbai Bonita yang tampak premium.\n
-• Tambahkan aksen wlegan dengan memakai bantal dekoratif, bed cover, atau selimut bertekstur lembut untuk nuansa yang lebih hangat dan mewah.\n
+• Tambahkan aksen elegan dengan memakai bantal dekoratif, bed cover, atau selimut bertekstur lembut untuk nuansa yang lebih hangat dan mewah.\n
 • Atur pencahayaan dengan menggunakan lampu berwarna kuning hangat atau lampu tidur dengan desain klasik.\n
 • Rutin membersihkan dan menata ulang kamar agar selalu terlihat cantik meski tanpa banyak dekorasi.\n
 **Rekomendasi Warna & Motif Elegan dari Bonita**\n
-• **Motif Floral**  \nPas untuk suasana kamar yang feminin dan romantis.\n
-• **Warna Netral (Putih, Abu, Beige)**  \nIdeal untuk tampilan yang simpel dan elegan.\n
-• **Warna Gelap (Navy, Hitam)**  \nMemberikan nuansa misterius dan mewah di waktu yang sama.\n
+Kalau kamu masih bingung memilih motif sprei yang cocok, ada beberapa pilihan yang bisa disesuaikan dengan suasana kamar yang kamu inginkan. Motif floral sangat pas untuk menciptakan nuansa kamar yang feminin dan romantis, cocok untuk kamu yang menyukai sentuhan lembut dan manis. Jika lebih suka tampilan yang simpel namun tetap elegan, warna-warna netral seperti putih, abu-abu, atau beige bisa jadi pilihan yang aman dan menenangkan. Sementara itu, untuk kesan yang lebih misterius dan mewah, warna gelap seperti navy atau hitam bisa memberikan sentuhan dramatis yang tetap berkelas.
 **Cara Merawat Sprei Rumbai Bonita Agar Tetap Awet**\n
 • Cuci dengan air dingin supaya bahan tetap terjaga dan warna nggak cepat pudar.\n
 • Gunakan deterjen yang lembut.\n
 • Jemur di tempat teduh.\n
-• Setrika suhu sendah.\n
-Bayangin Kamar Kamu Seperti Ini…\n
+• Setrika suhu sendah.
+
+\nBayangin Kamar Kamu Seperti Ini…\n\n
 Masuk kamar, lihat kasur rapi dengan rumbai elegan menjuntai ke bawah. Warna sprei pas banget sama dekor kamar. Tidur jadi lebih nyenyak, bangun pagi jadi semangat. Nggak cuma estetik buat dilihat, tapi juga nyaman buat ditidurin.\n
-Jadi, kalau kamu ingin mengubah suasana kamar tanpa ribet dan tanpa perlu budget besar, mulailah dari hal kecil seperti mengganti sprei. Dengan memilih sprei rumbai Bonita, kamu bisa mendapatkan kamar yang nggak cuma cantik tapi juga nyaman, elegan, dan terasa seperti hotel bintang lima setiap hari. Sudah siap buat tidur lebih nyenyak dan bangun dalam suasana yang bikin semangat?.\n
-Kamu bisa langsung cari sprei rumbai Bonita di\n
+
+Jadi, kalau kamu ingin mengubah suasana kamar tanpa ribet dan tanpa perlu budget besar, mulailah dari hal kecil seperti mengganti sprei. Dengan memilih sprei rumbai Bonita, kamu bisa mendapatkan kamar yang nggak cuma cantik tapi juga nyaman, elegan, dan terasa seperti hotel bintang lima setiap hari. Sudah siap buat tidur lebih nyenyak dan bangun dalam suasana yang bikin semangat?.
+Kamu bisa langsung cari sprei rumbai Bonita di : \n
 🛒 Website resmi: bonitasprei.id\n
 🛍️ Marketplace kesayanganmu\n
+🛍️ Merchan Bonita Seluruh Wilayah Indonesia
 ✨ Mulai dari Rp100 ribuan, kamar kamu bisa jadi seperti hotel mahal! Nggak perlu mahal, yang penting niat dan pilih produk yang tepat 💖`,
   },
   {
     id: "2",
     title: "Apa Sih Fungsi Bed Cover?",
     imageUrl:
-      "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
-    content: `Bed cover bukan hanya mempercantik kamar, tetapi juga berfungsi melindungi sprei dan kasur dari debu, kotoran, dan keringat.\n\nSelain itu, bed cover juga memberikan kenyamanan ekstra karena bahan yang lembut dan hangat, apalagi saat cuaca dingin.`,
+      "https://bonitasprei.id/assets/img/article/7c727-2.berapa-macam-ukuran-bed-cover.png",
+    content: `Saat akan membeli bed cover banyak pembeli melakukan kesalahan dalam menentukan ukuran. Sebab, dimensi bed cover dengan selimut dan kasur sendiri cukup berbeda, meskipun memiliki sebutan/nama ukuran yang sama. 
+
+Sama halnya dengan sprei, bed cover hadir dengan berbagai ukuran dan desain. Pengukuran bed cover ini juga dapat dilihat dari berbagai aspek, mulai dari panjang dan lebar, hingga beratnya. 
+
+Selain itu, setiap merek bed cover terkadang memiliki standar masing-masing. Karena itu, kamu perlu dengan cermat memilih bed cover yang tepat untuk mendekorasi kamar tidur.
+
+Nah, agar tak salah beli, kamu dapat menyimak 6 macam ukuran bed cover dan karakteristiknya di bawah ini.`,
   },
   {
     id: "3",
-    title: "Perlengkapan Bed Cover Bagus Ala Hotel",
+    title: "Perlengkapan Bed Cover Bagus",
     imageUrl:
-      "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
+      "https://bonitasprei.id/assets/img/article/12707-3.apa-sih-fungsi-bed-cover.png",
     content: `Untuk menciptakan suasana tidur senyaman hotel, kamu bisa menambahkan perlengkapan berikut:\n\n- Bed Skirt\n- Comforter\n- Blanket\n- 1st & 2nd Sheet\n- Top Sheet\n- Pillow & Pillowcase\n\nPerpaduan perlengkapan ini menciptakan nuansa premium yang mewah dan nyaman.`,
   },
   {
     id: "4",
     title: "Cara Memilih Bed Cover yang Tepat",
     imageUrl:
-      "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
+      "https://bonitasprei.id/assets/img/820fc-product-banner.png",
     content: `Pemilihan bed cover yang tepat bisa meningkatkan kenyamanan tidur. Berikut adalah beberapa tips:\n\n- Sesuaikan dengan ukuran kasur.\n- Pilih bahan yang nyaman dan mudah perawatannya.\n- Sesuaikan dengan tema kamar tidur agar tampak serasi.`,
   },
   {
     id: "5",
     title: "5 Kesalahan dalam Memilih Bed Cover",
     imageUrl:
-      "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
+      "https://bonitasprei.id/assets/img/upload/3_2_bed_cover_Bonita.png",
     content: `Ada beberapa kesalahan umum yang sering dilakukan saat memilih bed cover, seperti:\n\n- Tidak memperhatikan ukuran kasur.\n- Mengabaikan kualitas bahan.\n- Tidak mempertimbangkan tema kamar.`,
   },
 ];
