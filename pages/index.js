@@ -21,7 +21,7 @@ export default function Home() {
       imageUrl: 'https://bonitasprei.id/assets/img/article/double-karet-02-.png',
       content: `Kamu bisa langsung menyimak apa saja perlengkapan bed cover dan tempat tidur yang nyaman ala hotel.`
     }
-  ];
+  ];//
 
   return (
     <div className="bg-gray-100 min-h-screen">
