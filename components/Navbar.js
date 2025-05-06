@@ -4,16 +4,7 @@ export default function Navbar() {
       <div className="mx-auto flex flex-col max-w-[1440px] py-24 px-5 lg:px-20 h-full !py-0">
         <div className="relative flex items-center gap-2 h-full">
           <button className="shrink-0 block lg:hidden p-2 btn-menu-mobile">
-            <img
-              className="w-6 h-6 menu-icon"
-              src="https://bonitasprei.id/assets/images/menu.svg"
-              alt="menu"
-            />
-            <img
-              className="w-6 h-6 hidden close-icon"
-              src="https://aframawandani.github.io/bonita-dev/assets/images/x.svg"
-              alt="close"
-            />
+          
           </button>
           <a className="shrink-0 mx-auto lg:mx-0" href="https://bonitasprei.id/">
             <img
@@ -102,11 +93,7 @@ export default function Navbar() {
           </nav>
           <div className="absolute xl:relative hidden xl:!block left-0 top-auto w-full xl:w-auto bg-white form-search">
             <form action="https://bonitasprei.id/product" method="GET">
-              <img
-                className="hidden xl:block absolute top-2 left-6 w-8 h-8"
-                src="https://bonitasprei.id/assets/images/search.svg"
-                alt="Search Icon"
-              />
+              
               <button className="block xl:hidden absolute top-4 left-6 close-form" type="button">
                 <img
                   className="w-5 h-5"
@@ -123,11 +110,7 @@ export default function Navbar() {
             </form>
           </div>
           <button className="ml-0 lg:ml-auto shrink-0 block xl:hidden p-2 search-button">
-            <img
-              className="w-6 h-6"
-              src="hhttps://bonitasprei.id/assets/images/search.svg"
-              alt="Search Icon"
-            />
+            
           </button>
         </div>
       </div>
