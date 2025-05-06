@@ -1,12 +1,13 @@
-import { useRouter } from 'next/router';
-import Navbar from '../../components/Navbar';
-import Link from 'next/link';
+import { useRouter } from "next/router";
+import Navbar from "../../components/Navbar";
+import Link from "next/link";
 
 const articles = [
   {
-    id: '1',
-    title: 'Sprei Rumbai Bonita: Ubah Kamar Tidurmu Jadi Lebih Mewah ala Hotel Bintang Lima',
-    imageUrl: 'https://bonitainterior.com/wp-content/uploads/2023/05/ukuran-bed-cover.jpg',
+    id: "1",
+    title:
+      "Sprei Rumbai Bonita: Ubah Kamar Tidurmu Jadi Lebih Mewah ala Hotel Bintang Lima",
+    imageUrl: "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
     content: `Pernahkah kamu membayangkan bisa tidur di kamar yang tampilannya elegan seperti hotel berbintang, tapi tetap nyaman dan hangat seperti rumah sendiri? Ternyata, kamu nggak perlu renovasi besar-besaran atau beli perabot mahal untuk mewujudkannya. Cukup mulai dari mengganti sprei tempat tidurmu, dan salah satu pilihan terbaik saat ini adalah sprei rumbai Bonita. Yuk, kita kupas kenapa sprei ini bisa jadi kunci tampilan kamar yang lebih mewah!\n
 **Apa Sih Sprei Rumbai Bonita Itu?**\n
 Sprei rumbai adalah jenis sprei yang dilengkapi dengan aksen rumbai di bagian sampingnya. Aksen ini memberi kesan klasik dan mewah, mirip seperti tempat tidur di hotel premium. Nah, merek Bonita terkenal karena menghadirkan sprei rumbai dengan tampilan yang menarik tapi tetap mengutamakan kenyamanan. Nggak cuma cantik dilihat, sprei ini juga punya kualitas bahan yang bisa diandalkan.\n
@@ -46,37 +47,41 @@ Jadi, kalau kamu ingin mengubah suasana kamar tanpa ribet dan tanpa perlu budget
 Kamu bisa langsung cari sprei rumbai Bonita di\n
 🛒 Website resmi: bonitasprei.id\n
 🛍️ Marketplace kesayanganmu\n
-✨ Mulai dari Rp100 ribuan, kamar kamu bisa jadi seperti hotel mahal! Nggak perlu mahal, yang penting niat dan pilih produk yang tepat 💖`
+✨ Mulai dari Rp100 ribuan, kamar kamu bisa jadi seperti hotel mahal! Nggak perlu mahal, yang penting niat dan pilih produk yang tepat 💖`,
   },
   {
-    id: '2',
-    title: 'Apa Sih Fungsi Bed Cover?',
-    imageUrl: 'https://bonitainterior.com/wp-content/uploads/2023/05/fungsi-bed-cover.jpg',
-    content: `Bed cover bukan hanya mempercantik kamar, tetapi juga berfungsi melindungi sprei dan kasur dari debu, kotoran, dan keringat.\n\nSelain itu, bed cover juga memberikan kenyamanan ekstra karena bahan yang lembut dan hangat, apalagi saat cuaca dingin.`
+    id: "2",
+    title: "Apa Sih Fungsi Bed Cover?",
+    imageUrl:
+      "https://bonitainterior.com/wp-content/uploads/2023/05/fungsi-bed-cover.jpg",
+    content: `Bed cover bukan hanya mempercantik kamar, tetapi juga berfungsi melindungi sprei dan kasur dari debu, kotoran, dan keringat.\n\nSelain itu, bed cover juga memberikan kenyamanan ekstra karena bahan yang lembut dan hangat, apalagi saat cuaca dingin.`,
   },
   {
-    id: '3',
-    title: 'Perlengkapan Bed Cover Bagus Ala Hotel',
-    imageUrl: 'https://bonitainterior.com/wp-content/uploads/2023/05/bed-cover-hotel.jpg',
-    content: `Untuk menciptakan suasana tidur senyaman hotel, kamu bisa menambahkan perlengkapan berikut:\n\n- Bed Skirt\n- Comforter\n- Blanket\n- 1st & 2nd Sheet\n- Top Sheet\n- Pillow & Pillowcase\n\nPerpaduan perlengkapan ini menciptakan nuansa premium yang mewah dan nyaman.`
+    id: "3",
+    title: "Perlengkapan Bed Cover Bagus Ala Hotel",
+    imageUrl:
+      "https://bonitainterior.com/wp-content/uploads/2023/05/bed-cover-hotel.jpg",
+    content: `Untuk menciptakan suasana tidur senyaman hotel, kamu bisa menambahkan perlengkapan berikut:\n\n- Bed Skirt\n- Comforter\n- Blanket\n- 1st & 2nd Sheet\n- Top Sheet\n- Pillow & Pillowcase\n\nPerpaduan perlengkapan ini menciptakan nuansa premium yang mewah dan nyaman.`,
   },
   {
-    id: '4',
-    title: 'Cara Memilih Bed Cover yang Tepat',
-    imageUrl: 'https://bonitainterior.com/wp-content/uploads/2023/05/cara-memilih-bed-cover.jpg',
-    content: `Pemilihan bed cover yang tepat bisa meningkatkan kenyamanan tidur. Berikut adalah beberapa tips:\n\n- Sesuaikan dengan ukuran kasur.\n- Pilih bahan yang nyaman dan mudah perawatannya.\n- Sesuaikan dengan tema kamar tidur agar tampak serasi.`
+    id: "4",
+    title: "Cara Memilih Bed Cover yang Tepat",
+    imageUrl:
+      "https://bonitainterior.com/wp-content/uploads/2023/05/cara-memilih-bed-cover.jpg",
+    content: `Pemilihan bed cover yang tepat bisa meningkatkan kenyamanan tidur. Berikut adalah beberapa tips:\n\n- Sesuaikan dengan ukuran kasur.\n- Pilih bahan yang nyaman dan mudah perawatannya.\n- Sesuaikan dengan tema kamar tidur agar tampak serasi.`,
   },
   {
-    id: '5',
-    title: '5 Kesalahan dalam Memilih Bed Cover',
-    imageUrl: 'https://bonitainterior.com/wp-content/uploads/2023/05/bed-cover-kesalahan.jpg',
-    content: `Ada beberapa kesalahan umum yang sering dilakukan saat memilih bed cover, seperti:\n\n- Tidak memperhatikan ukuran kasur.\n- Mengabaikan kualitas bahan.\n- Tidak mempertimbangkan tema kamar.`
-  }
+    id: "5",
+    title: "5 Kesalahan dalam Memilih Bed Cover",
+    imageUrl:
+      "https://bonitainterior.com/wp-content/uploads/2023/05/bed-cover-kesalahan.jpg",
+    content: `Ada beberapa kesalahan umum yang sering dilakukan saat memilih bed cover, seperti:\n\n- Tidak memperhatikan ukuran kasur.\n- Mengabaikan kualitas bahan.\n- Tidak mempertimbangkan tema kamar.`,
+  },
 ];
 
 export async function getStaticPaths() {
   const paths = articles.map((article) => ({
-    params: { id: article.id }
+    params: { id: article.id },
   }));
   return { paths, fallback: false };
 }
@@ -96,14 +101,32 @@ export default function ArticleDetail({ article }) {
         <div className="flex flex-col lg:flex-row gap-8">
           {/* Konten Utama */}
           <div className="lg:w-2/3">
-            <h1 className="text-4xl font-bold text-black mb-6">{article.title}</h1>
+            <h1 className="text-4xl font-bold text-black mb-6">
+              {article.title}
+            </h1>
             <img
               src={article.imageUrl}
               alt={article.title}
-              className="w-full h-96 object-cover rounded-xl mb-6"
+              className="w-full h-96 object-cover rounded-xl mb-15"
             />
-            <div className="text-lg text-gray-800 whitespace-pre-line leading-relaxed">
-              {article.content}
+            <div className="text-lg text-gray-800 leading-relaxed">
+              {article.content.split("\n").map((line, index) => (
+                <p key={index} className="mb-4">
+                  {line.split(/(\*\*[^\*]+\*\*)/g).map((chunk, i) => {
+                    if (chunk.startsWith("**") && chunk.endsWith("**")) {
+                      return (
+                        <strong
+                          key={i}
+                          className="font-semibold text-black text-[25px]"
+                        >
+                          {chunk.replace(/\*\*/g, "")}
+                        </strong>
+                      );
+                    }
+                    return chunk;
+                  })}
+                </p>
+              ))}
             </div>
           </div>
 
@@ -122,7 +145,9 @@ export default function ArticleDetail({ article }) {
                       className="w-24 h-16 object-cover rounded-md"
                     />
                     <div>
-                      <h3 className="font-semibold text-gray-800 text-sm">{item.title}</h3>
+                      <h3 className="font-semibold text-gray-800 text-sm">
+                        {item.title}
+                      </h3>
                       <p className="text-xs text-gray-600">
                         {item.content.slice(0, 50)}...
                       </p>
