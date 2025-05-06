@@ -53,28 +53,28 @@ Kamu bisa langsung cari sprei rumbai Bonita di\n
     id: "2",
     title: "Apa Sih Fungsi Bed Cover?",
     imageUrl:
-      "https://bonitainterior.com/wp-content/uploads/2023/05/fungsi-bed-cover.jpg",
+      "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
     content: `Bed cover bukan hanya mempercantik kamar, tetapi juga berfungsi melindungi sprei dan kasur dari debu, kotoran, dan keringat.\n\nSelain itu, bed cover juga memberikan kenyamanan ekstra karena bahan yang lembut dan hangat, apalagi saat cuaca dingin.`,
   },
   {
     id: "3",
     title: "Perlengkapan Bed Cover Bagus Ala Hotel",
     imageUrl:
-      "https://bonitainterior.com/wp-content/uploads/2023/05/bed-cover-hotel.jpg",
+      "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
     content: `Untuk menciptakan suasana tidur senyaman hotel, kamu bisa menambahkan perlengkapan berikut:\n\n- Bed Skirt\n- Comforter\n- Blanket\n- 1st & 2nd Sheet\n- Top Sheet\n- Pillow & Pillowcase\n\nPerpaduan perlengkapan ini menciptakan nuansa premium yang mewah dan nyaman.`,
   },
   {
     id: "4",
     title: "Cara Memilih Bed Cover yang Tepat",
     imageUrl:
-      "https://bonitainterior.com/wp-content/uploads/2023/05/cara-memilih-bed-cover.jpg",
+      "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
     content: `Pemilihan bed cover yang tepat bisa meningkatkan kenyamanan tidur. Berikut adalah beberapa tips:\n\n- Sesuaikan dengan ukuran kasur.\n- Pilih bahan yang nyaman dan mudah perawatannya.\n- Sesuaikan dengan tema kamar tidur agar tampak serasi.`,
   },
   {
     id: "5",
     title: "5 Kesalahan dalam Memilih Bed Cover",
     imageUrl:
-      "https://bonitainterior.com/wp-content/uploads/2023/05/bed-cover-kesalahan.jpg",
+      "https://bonitasprei.id/assets/img/article/double-karet-02-.png",
     content: `Ada beberapa kesalahan umum yang sering dilakukan saat memilih bed cover, seperti:\n\n- Tidak memperhatikan ukuran kasur.\n- Mengabaikan kualitas bahan.\n- Tidak mempertimbangkan tema kamar.`,
   },
 ];
@@ -101,7 +101,7 @@ export default function ArticleDetail({ article }) {
         <div className="flex flex-col lg:flex-row gap-8">
           {/* Konten Utama */}
           <div className="lg:w-2/3">
-            <h1 className="text-4xl font-bold text-black mb-6">
+            <h1 className="text-4xl font-bold text-black mb-10">
               {article.title}
             </h1>
             <img
