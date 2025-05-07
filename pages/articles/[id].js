@@ -40,9 +40,9 @@ Kalau kamu masih bingung memilih motif sprei yang cocok, ada beberapa pilihan ya
 Masuk kamar, lihat kasur rapi dengan rumbai elegan menjuntai ke bawah. Warna sprei pas banget sama dekor kamar. Tidur jadi lebih nyenyak, bangun pagi jadi semangat. Nggak cuma estetik buat dilihat, tapi juga nyaman buat ditidurin.\n
 
 Jadi, kalau kamu ingin mengubah suasana kamar tanpa ribet dan tanpa perlu budget besar, mulailah dari hal kecil seperti mengganti sprei. Dengan memilih sprei rumbai Bonita, kamu bisa mendapatkan kamar yang nggak cuma cantik tapi juga nyaman, elegan, dan terasa seperti hotel bintang lima setiap hari. Sudah siap buat tidur lebih nyenyak dan bangun dalam suasana yang bikin semangat?.
-Kamu bisa langsung cari sprei rumbai Bonita di : \n
-🛒 Website resmi: bonitasprei.id\n
-🛍️ Marketplace kesayanganmu\n
+Yuk, ubah kamar kamu jadi lebih elegan dan mewah dengan sprei rumbai Bonita! Cari sekarang di :
+🛒 Website resmi: bonitasprei.id
+🛍️ Marketplace kesayanganmu
 🛍️ Merchan Bonita Seluruh Wilayah Indonesia
 ✨ Mulai dari Rp100 ribuan, kamar kamu bisa jadi seperti hotel mahal! Nggak perlu mahal, yang penting niat dan pilih produk yang tepat 💖`,
   },

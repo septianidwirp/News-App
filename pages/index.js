@@ -8,7 +8,7 @@ export default function Home() {
       title: "Sprei Rumbai Bonita: Ubah Kamar Tidurmu Jadi Lebih Mewah ala Hotel Bintang Lima",
       imageUrl:
         "https://bonitasprei.id/assets/img/820fc-product-banner.png",
-      content: `Pernahkah kamu membayangkan bisa tidur di kamar yang tampilannya elegan seperti hotel berbintang, tapi tetap nyaman dan hangat seperti rumah sendiri? `,
+      content: `Ingin punya kamar semewah hotel bintang 5? Simak tips dekorasi menggunakan sprei rumbai Bonita yang elegan, terjangkau, dan bikin kamar makin estetik. `,
     },
     {
       id: "2",
